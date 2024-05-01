@@ -1,50 +1,34 @@
 {
-    "contracters": [
-      {
-        "userID": "1",
-        "id": "1",
-        "name": "Gonzalo"
-      },
-      {
-        "userID": "2",
-        "id": "2",
-        "name": "Juan"
-      },
-      {
-        "userID": "3",
-        "id": "3",
-        "name": "Pedro"
-      },
-      {
-        "userID": "4",
-        "id": "4",
-        "name": "Pablo"
-      },
-      {
-        "userID": "5",
-        "id": "5",
-        "name": "Luis"
-      },
-      {
-        "userID": "6",
-        "id": "6",
-        "name": "Carlos"
-      },
-      {
-        "userID": "7",
-        "id": "7",
-        "name": "Jose"
-      },
-      {
-        "userID": "8",
-        "id": "8",
-        "name": "Ricardo"
-      },
-      {
-        "userID": "9",
-        "id": "9",
-        "name": "Fernando"
-      }
-    ]
-  }
-  
+  "constracters": [
+    {
+      "userID": "1",
+      "id": "1",
+      "firstName": "Gonzalo",
+      "paternalSurname": "Gonzalez",
+      "maternalSurname": "Alvarez",
+      "email": "gonzalo@restyle.com",
+      "phone": "1234567890",
+      "subscription": "premium"
+    },
+    {
+      "userID": "2",
+      "id": "2",
+      "name": "Juan",
+      "paternalSurname": "Perez",
+      "maternalSurname": "Garcia",
+      "email": "juan@restyle.com",
+      "phone": "1234567890",
+      "subscription": "premium"
+    },
+    {
+      "userID": "3",
+      "id": "3",
+      "name": "Pedro",
+      "paternalSurname": "Garcia",
+      "maternalSurname": "Huaman",
+      "email": "pedro@restyle.com",
+      "phone": "1234567890"
+
+    }
+  ]
+}
