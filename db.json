@@ -8,7 +8,8 @@
       "maternalSurname": "Alvarez",
       "email": "gonzalo@restyle.com",
       "phone": "1234567890",
-      "subscription": "premium"
+      "subscription": "premium",
+      "description": "Propietario entusiasta busca remodeladora para transformar su hogar en un espacio moderno y acogedor. Busco profesionalismo, creatividad y atención al detalle para cumplir con mis expectativas y mejorar el valor de mi propiedad"
     },
     {
       "userID": "2",
@@ -18,7 +19,8 @@
       "maternalSurname": "Garcia",
       "email": "juan@restyle.com",
       "phone": "1234567890",
-      "subscription": "premium"
+      "subscription": "premium",
+      "description": "Propietario entusiasta busca remodeladora para transformar su hogar en un espacio moderno y acogedor. Busco profesionalismo, creatividad y atención al detalle para cumplir con mis expectativas y mejorar el valor de mi propiedad"
     },
     {
       "userID": "3",
@@ -27,8 +29,10 @@
       "paternalSurname": "Garcia",
       "maternalSurname": "Huaman",
       "email": "pedro@restyle.com",
-      "phone": "1234567890"
-
+      "phone": "1234567890",
+      "subscription": "premium",
+      "description": "Propietario entusiasta busca remodeladora para transformar su hogar en un espacio moderno y acogedor. Busco profesionalismo, creatividad y atención al detalle para cumplir con mis expectativas y mejorar el valor de mi propiedad",
+      
     }
   ]
 }
