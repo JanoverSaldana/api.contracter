@@ -1,0 +1,56 @@
+{
+    "constracters": [
+      {
+        "userID": "1",
+        "id": "1",
+        "name": "Gonzalo"
+      },
+      {
+        "userID": "2",
+        "id": "2",
+        "name": "Juan"
+      },
+      {
+        "userID": "3",
+        "id": "3",
+        "name": "Pedro"
+      },
+      {
+        "userID": "4",
+        "id": "4",
+        "name": "Pablo"
+      },
+      {
+        "userID": "5",
+        "id": "5",
+        "name": "Luis"
+      },
+      {
+        "userID": "6",
+        "id": "6",
+        "name": "Carlos"
+      },
+      {
+        "userID": "7",
+        "id": "7",
+        "name": "Jose"
+      },
+      {
+        "userID": "8",
+        "id": "8",
+        "name": "Ricardo"
+      },
+      {
+        "userID": "9",
+        "id": "9",
+        "name": "Fernando"
+      },
+      {
+        "userID": "10",
+        "id": "10",
+        "name": "Jorge"
+      }
+      
+    ]
+  }
+  
