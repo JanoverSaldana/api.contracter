@@ -13,7 +13,7 @@
     {
       "userID": "2",
       "id": "2",
-      "name": "Juan",
+      "firstName": "Juan",
       "paternalSurname": "Perez",
       "maternalSurname": "Garcia",
       "email": "juan@restyle.com",
@@ -23,7 +23,7 @@
     {
       "userID": "3",
       "id": "3",
-      "name": "Pedro",
+      "firstName": "Pedro",
       "paternalSurname": "Garcia",
       "maternalSurname": "Huaman",
       "email": "pedro@restyle.com",
